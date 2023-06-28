@@ -28,8 +28,8 @@ Tema do trabalho === Bicicletas
 #define QTDBICICLETAS 100
 #define QTDFABRICANTES 100
 #define TEXTO 150
-#define TELEFONE 11
-#define UNIDADEFEDERATIVA 2
+#define TELEFONE 12
+#define UNIDADEFEDERATIVA 4
 
 #define MENSAGEMINVALIDA printf("Valor inválido, por favor insira novamente!\n");
 
